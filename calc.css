@@ -4,7 +4,7 @@ body{
 }
 #calculator{
 	width: 250px;
-	border: 2px grey solid;
+	border: 2px lightcoral solid; 
 	padding: 10px;
 	border-radius: 10px;
 	display: flex;
