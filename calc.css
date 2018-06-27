@@ -9,7 +9,7 @@ body{
 	border-radius: 10px;
 	display: flex;
 	flex-direction: column;
-	background-color: tomato;
+	background-color: maroon;
 }
 input[type="button"]{
 	width: 50px;
